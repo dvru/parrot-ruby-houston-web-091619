@@ -1,7 +1,7 @@
 
 
-def parrot(number)
-  puts 
+def parrot(phrase = Squawk!)
+  puts Squawk!
 end
 
 
